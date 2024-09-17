@@ -1,5 +1,6 @@
 # Sales Analytics Dashboard
 
+![](https://github.com/letscodeaditya/Sales-Analytics-Dashboard/blob/main/preview%20img.jpg)
 
 📊 Project Overview
 
